@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SuperCoolLocation</string>
+    <string name="location_place_holder">Location Place Holder</string>
+    <string name="permission_requirement">You need the location permission to use this application.</string>
+    <string name="open_settings_text">Open Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_search_location">SearchLocationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="type_an_address">Type an address</string>
+</resources>
